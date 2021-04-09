@@ -1,0 +1,26 @@
+{
+  "name": "node4",
+  "version": "1.0.0",
+  "description": "This is the draft of nodejs appilcation using mysql",
+  "main": "database_mysql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unkwnpassenger/node4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unkwnpassenger/node4/issues"
+  },
+  "homepage": "https://github.com/unkwnpassenger/node4#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "multer": "^1.4.2",
+    "mysql": "^2.18.1"
+  }
+}
